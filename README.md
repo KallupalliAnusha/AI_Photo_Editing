@@ -1,4 +1,3 @@
-Here's a README.md file to explain the usage of your AI Photo Editor application and how to install the required Python packages.
 
 # AI Photo Editor
 
